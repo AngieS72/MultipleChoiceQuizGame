@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Science Trivia Quiz Game</string>
+    <string name="imgLogoContentDescription">Quiz Time neon light</string>
+    <string name="imgTextContentDescription">Created By Tag</string>
+    <string name="mainTitleTV">Trivia Game</string>
+    <string name="startQuizBTN">Start Quiz</string>
+    <string name="highscoreTV">Highscore: 0</string>
+    <string name="viewScoreTV">Score: 0</string>
+    <string name="viewQuestionCountTV">Question: 1/x</string>
+    <string name="countdownTV">00:30</string>
+    <string name="optionOneRB">Option 1</string>
+    <string name="optionTwoRB">Option 2</string>
+    <string name="optionThreeRB">Option 3</string>
+    <string name="questionTV">Question will go here</string>
+    <string name="confirmNextBTN">Confirm</string>
+    <string name="createdByTagTV">Created By Angie Shelton</string>
+
+</resources>

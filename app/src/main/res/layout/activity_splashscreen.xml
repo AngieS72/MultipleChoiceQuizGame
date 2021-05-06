@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/purple_200">
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:contentDescription="@string/imgLogoContentDescription"
+        android:src="@drawable/quiz_time" />
+
+    <ImageView
+        android:id="@+id/imgText"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/imgLogo"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/imgTextContentDescription"
+        android:src="@drawable/logo" />
+
+</RelativeLayout>
